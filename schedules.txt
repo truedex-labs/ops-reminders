@@ -4,7 +4,10 @@
 2024-11-11: aliyun WAF cert (chat)
 2024-11-12: aliyun WAF cert (api)
 2024-11-12: aliyun WAF cert (www)
-2024-11-09: aliyun WAF cert (cdn)
+2024-11-06: aliyun WAF cert (cdn)
+2024-11-06: aliyun WAF cert (t-miniapp)
+2024-11-06: aliyun WAF cert (testm)
+2024-10-16: aliyun WAF cert (abc)
 2024-11-08: GW certbot (cdn.flon.n)
 2024-10-22: aliyun OSS (cdn.apl)
 2024-09-02: aliyun intl billing
