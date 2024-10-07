@@ -1,7 +1,7 @@
 2025-08-12: aliyun WAF cert (*.haxijie.com)
 2024-11-08: GW certbot (cdn.flon.n)
 2024-10-22: aliyun OSS (cdn.apl)
-2024-10-7: aliyun intl billing
+2024-11-8: aliyun intl billing
 2024-12-31: quicknode expiry
 2025-09-09: xchain oklink
 2025-10-19: rapidapi-twitter
