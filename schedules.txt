@@ -3,5 +3,6 @@
 2024-10-22: aliyun OSS (cdn.apl)
 2024-11-8: aliyun intl billing
 2024-12-31: quicknode expiry
+2025-01-10: GW certbot (jenkins.fufi.me)
 2025-09-09: xchain oklink
 2025-10-19: rapidapi-twitter
