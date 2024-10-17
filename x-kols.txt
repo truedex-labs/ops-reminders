@@ -2,7 +2,7 @@ Felix_Hsu
 CryptoApprenti1
 ali_charts
 cryptoquant_com
-SoSoValue:
+SoSoValue
 coinglass_com
 NickTimiraos
 zerohedge:inflation,deflation,hedge,SEC,Blackrock,Grey scale,DJI,SPX
