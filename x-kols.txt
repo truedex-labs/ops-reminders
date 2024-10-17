@@ -5,7 +5,7 @@ cryptoquant_com
 SoSoValue
 coinglass_com
 NickTimiraos
-zerohedge:inflation,deflation,hedge,SEC,Blackrock,Grey scale,DJI,SPX
+zerohedge:inflation,deflation,hedge,SEC,Blackrock,Grey scale,DJI,SPX,Rate,BTC,Bitcoin,ETH,Ethereum,Crypto,carry trade
 ki_young_ju
 CryptoHayes
 VitalikButerin
