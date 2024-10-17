@@ -1,12 +1,12 @@
-Felix_Hsu:币圈,Crypto
-CryptoApprenti1:大饼,比特币,BTC,Bitcoin,ETH,Ethereum
-ali_charts:以太,二饼,ETH,Ethereum
-cryptoquant_com:美联储,FED,央行,降息,Rate cut
-SoSoValue:交易员,trader,热力图,heatmap,liquidity,liquidation,清算
-coinglass_com:美国经济,利率,股市,行情,投资,investor,carry trade,yen
-NickTimiraos:inflation,deflation,hedge,SEC,Blackrock,Grey scale,微策略
-zerohedge:K线,RL,浮亏,浮盈
-ki_young_ju:DJI,SPX
+Felix_Hsu
+CryptoApprenti1
+ali_charts
+cryptoquant_com
+SoSoValue:
+coinglass_com
+NickTimiraos
+zerohedge:inflation,deflation,hedge,SEC,Blackrock,Grey scale,DJI,SPX
+ki_young_ju
 CryptoHayes
 VitalikButerin
 theRealKiyosaki
@@ -18,3 +18,4 @@ VV_watch
 TicTocTick
 HodlMagoo
 0xENAS
+*other:交易员,trader,热力图,heatmap,liquidity,liquidation,清算,美联储,FED,央行,降息,Rate cut,大饼,比特币,BTC,Bitcoin,ETH,Ethereum,币圈,Crypto,美国经济,利率,股市,行情,投资,investor,carry trade,yen,微策略,K线,RL,浮亏,浮盈,灰度,以太,二饼,ETH,Ethereum
