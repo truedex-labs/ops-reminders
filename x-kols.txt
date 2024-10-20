@@ -17,7 +17,7 @@ Phyrex_Ni
 TJ_Research01
 1MarkMoss
 VV_watch
-TicTocTick
+TicTocTick:liquidity,liquidation,BTC,Bitcoin,ETH,Ethereum,Crypto
 HodlMagoo
 0xENAS
 #other:交易员,trader,热力图,heatmap,liquidity,liquidation,清算,美联储,FED,央行,降息,Rate cut,大饼,比特币,BTC,Bitcoin,ETH,Ethereum,币圈,Crypto,美国经济,利率,股市,行情,投资,investor,carry trade,yen,微策略,K线,RL,浮亏,浮盈,灰度,以太,二饼,ETH,Ethereum
