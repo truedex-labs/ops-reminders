@@ -1,5 +1,5 @@
 2025-08-12: aliyun WAF cert (*.haxijie.com)
-2025-02-05: GW certbot (cdn.flon.n)
+2025-05-05: GW certbot (cdn.flon.n)
 2025-04-15: aliyun OSS (cdn.aplink.app)
 2025-02-08: aliyun intl billing (Genesis nodes)
 2025-06-28: quicknode expiry
