@@ -17,7 +17,7 @@ theRealKiyosaki
 Phyrex_Ni
 TJ_Research01
 1MarkMoss
-VV_watch
+#VV_watch
 TicTocTick:liquidity,liquidation,BTC,Bitcoin,ETH,Ethereum,Crypto
 HodlMagoo
 0xENAS
