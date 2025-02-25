@@ -6,6 +6,6 @@
 2025-04-05: GW certbot (jenkins.fufi.me)
 2026-01-08: GW certbot (docker.jjrw.me)
 2025-09-09: xchain oklink(custody)
-2025-02-25: xchain oklink(wallet-rpc-cluster)
+2025-09-01: xchain oklink(wallet-rpc-cluster)
 2025-05-10: rapidapi-twitter
 2026-02-15: ssl(nestar.vip)
