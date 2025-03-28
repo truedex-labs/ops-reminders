@@ -4,7 +4,9 @@
 2025-04-10: aliyun intl billing (Genesis nodes)
 2025-06-28: quicknode expiry
 2025-04-05: GW certbot (jenkins.fufi.me)
-2025-06-20: GW certbot (cosmosdao.amaxscan.io)
+2025-06-26: GW certbot (cosmosdao.amaxscan.io)
+2025-06-26: GW certbot (amgenesisdao.amaxscan.io)
+2025-06-26: GW certbot (vmaxmall.amaxscan.io)
 2025-05-30: aliyun OSS (cdn.flon.network)
 2026-01-08: GW certbot (docker.jjrw.me)
 2025-09-09: xchain oklink(custody)
