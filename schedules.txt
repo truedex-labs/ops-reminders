@@ -4,7 +4,7 @@
 2025-04-15: aliyun OSS (cdn.aplink.app)
 2025-04-10: aliyun intl billing (Genesis nodes)
 2025-06-28: quicknode expiry
-2025-04-05: GW certbot (jenkins.fufi.me)
+2025-07-05: GW certbot (jenkins.fufi.me)
 2025-06-26: GW certbot (cosmosdao.amaxscan.io)
 2025-06-26: GW certbot (amgenesisdao.amaxscan.io)
 2025-06-26: GW certbot (vmaxmall.amaxscan.io)
