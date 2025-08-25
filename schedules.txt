@@ -7,7 +7,7 @@
 2025-09-24: GW certbot (cosmosdao.amaxscan.io)
 2025-09-24: GW certbot (amgenesisdao.amaxscan.io)
 2025-09-24: GW certbot (vmaxmall.amaxscan.io)
-2025-08-25: aliyun OSS (cdn.flon.network)
+2025-11-20: aliyun OSS (cdn.flon.network)
 2025-10-27: aliyun OSS (cdn.hufu.io)
 2026-01-08: GW certbot (docker.jjrw.me)
 2025-09-09: xchain oklink(custody)
