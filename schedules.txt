@@ -6,8 +6,9 @@
 2025-12-20: GW certbot (cosmosdao.amaxscan.io)
 2025-12-20: GW certbot (amgenesisdao.amaxscan.io)
 2025-12-20: GW certbot (vmaxmall.amaxscan.io)
-2025-11-20: aliyun OSS (cdn.flon.network)
-2025-10-27: aliyun OSS (cdn.hufu.io)
+2026-01-22: aliyun OSS (cdn.flon.network)
+2026-01-22: aliyun OSS (cdn.hufu.io)
+2026-01-22: aliyun OSS (cdn.cisumverse.com)
 2026-01-08: GW certbot (docker.jjrw.me)
 2025-12-10: rapidapi-twitter
 2026-02-15: ssl(nestar.vip)
