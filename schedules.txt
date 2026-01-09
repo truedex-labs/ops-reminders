@@ -9,6 +9,7 @@
 2026-01-22: aliyun OSS (cdn.flon.network)
 2026-01-22: aliyun OSS (cdn.hufu.io)
 2026-01-22: aliyun OSS (cdn.cisumverse.com)
+2026-12-15: aliyun OSS (chat.cisumverse.com)
 2026-04-08: GW certbot (docker.jjrw.me)
 2026-12-01: rapidapi-twitter
 2026-02-15: ssl(nestar.vip)
