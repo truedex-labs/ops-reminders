@@ -6,9 +6,9 @@
 2026-03-18: GW certbot (cosmosdao.amaxscan.io)
 2026-03-18: GW certbot (amgenesisdao.amaxscan.io)
 2026-03-18: GW certbot (vmaxmall.amaxscan.io)
-2026-01-22: aliyun OSS (cdn.flon.network)
-2026-01-22: aliyun OSS (cdn.hufu.io)
-2026-01-22: aliyun OSS (cdn.cisumverse.com)
+2026-04-20: aliyun OSS (cdn.flon.network)
+2026-04-20: aliyun OSS (cdn.hufu.io)
+2026-12-15: aliyun OSS (cdn.cisumverse.com)
 2026-12-15: aliyun OSS (chat.cisumverse.com)
 2026-04-08: GW certbot (docker.jjrw.me)
 2026-12-01: rapidapi-twitter
