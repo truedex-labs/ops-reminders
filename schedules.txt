@@ -1,5 +1,5 @@
 2025-08-12: aliyun WAF cert (*.haxijie.com)
-2026-03-29: Godaddy cert (*.fufi.dev)
+2028-03-10: Godaddy cert (*.fufi.dev)
 2026-04-10: amc-nodes aliyun billing
 2026-08-28: quicknode expiry
 2026-03-20: GW certbot (jenkins.fufi.me)
@@ -12,5 +12,4 @@
 2026-12-15: aliyun OSS (chat.cisumverse.com)
 2026-04-08: GW certbot (docker.jjrw.me)
 2026-12-01: rapidapi-twitter
-2026-03-15: ssl(nestar.vip)
 2026-10-15: hk-csl-mobile
