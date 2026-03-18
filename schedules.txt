@@ -3,9 +3,9 @@
 2026-04-10: amc-nodes aliyun billing
 2026-08-28: quicknode expiry
 2026-03-20: GW certbot (jenkins.fufi.me)
-2026-03-18: GW certbot (cosmosdao.amaxscan.io)
-2026-03-18: GW certbot (amgenesisdao.amaxscan.io)
-2026-03-18: GW certbot (vmaxmall.amaxscan.io)
+2026-06-15: GW certbot (cosmosdao.amaxscan.io)
+2026-06-15: GW certbot (amgenesisdao.amaxscan.io)
+2026-06-15: GW certbot (vmaxmall.amaxscan.io)
 2026-04-20: aliyun OSS (cdn.flon.network)
 2026-04-20: aliyun OSS (cdn.hufu.io)
 2026-12-15: aliyun OSS (cdn.cisumverse.com)
