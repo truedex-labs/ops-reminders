@@ -1,6 +1,6 @@
 2025-08-12: aliyun WAF cert (*.haxijie.com)
 2028-03-10: Godaddy cert (*.fufi.dev)
-2026-04-10: amc-nodes aliyun billing
+2026-05-09: amc-nodes aliyun billing
 2026-08-28: quicknode expiry
 2026-06-15: GW certbot (cosmosdao.amaxscan.io)
 2026-06-15: GW certbot (amgenesisdao.amaxscan.io)
