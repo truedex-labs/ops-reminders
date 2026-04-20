@@ -12,3 +12,4 @@
 2026-06-08: GW certbot (docker.jjrw.me)
 2026-12-01: rapidapi-twitter
 2026-10-15: hk-csl-mobile
+2028-04-15: free ssl (*.gnos.ai)
