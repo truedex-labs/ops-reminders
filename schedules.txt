@@ -9,7 +9,7 @@
 2026-07-15: aliyun OSS (cdn.hufu.io)
 2026-12-15: aliyun OSS (cdn.cisumverse.com)
 2026-12-15: aliyun OSS (chat.cisumverse.com)
-2026-06-08: GW certbot (docker.jjrw.me)
+2026-09-08: GW certbot (docker.jjrw.me)
 2026-12-01: rapidapi-twitter
 2026-10-15: hk-csl-mobile
 2026-10-25: free ssl (*.gnos.ai)
