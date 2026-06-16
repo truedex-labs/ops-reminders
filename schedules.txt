@@ -2,9 +2,9 @@
 2028-03-10: Godaddy cert (*.fufi.dev)
 2026-08-09: amc-nodes aliyun billing
 2026-08-28: quicknode expiry
-2026-06-15: GW certbot (cosmosdao.amaxscan.io)
-2026-06-15: GW certbot (amgenesisdao.amaxscan.io)
-2026-06-15: GW certbot (vmaxmall.amaxscan.io)
+2026-09-12: GW certbot (cosmosdao.amaxscan.io)
+2026-09-12: GW certbot (amgenesisdao.amaxscan.io)
+2026-09-12: GW certbot (vmaxmall.amaxscan.io)
 2026-07-15: aliyun OSS (cdn.flon.network)
 2026-07-15: aliyun OSS (cdn.hufu.io)
 2026-12-15: aliyun OSS (cdn.cisumverse.com)
